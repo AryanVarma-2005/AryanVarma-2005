@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 Hi, I’m Aryan Varma 👨‍💻<br>A B.Tech IT student from India 🇮🇳 passionate about building full-stack web applications and deploying them on the cloud.<br><br>I enjoy working across the entire development lifecycle — from creating clean and interactive user interfaces to building backend APIs and deploying scalable applications using cloud technologies. I’m especially interested in how modern applications are built, deployed, secured, and scaled in real-world environments.<br><br>My goal is to grow into a cloud-native full-stack developer who can build production-ready applications and manage them efficiently in the cloud.
 
 
