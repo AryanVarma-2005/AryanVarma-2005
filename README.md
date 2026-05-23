@@ -1,18 +1,130 @@
-# 💫 About Me:<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
-Hi, I’m Aryan Varma 👨‍💻<br>A B.Tech IT student from India 🇮🇳 passionate about building full-stack web applications and deploying them on the cloud.<br><br>I enjoy working across the entire development lifecycle — from creating clean and interactive user interfaces to building backend APIs and deploying scalable applications using cloud technologies. I’m especially interested in how modern applications are built, deployed, secured, and scaled in real-world environments.<br><br>My goal is to grow into a cloud-native full-stack developer who can build production-ready applications and manage them efficiently in the cloud.
+<div align="center">
 
+```
+ ██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗
+ ██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
+ ███████║██║       ██║   ███████║█████╗  ██████╔╝█████╗  
+ ██╔══██║██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
+ ██║  ██║██║       ██║   ██║  ██║███████╗██║  ██║███████╗
+ ╚═╝  ╚═╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aryan Varma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanvarma_2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Varma) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AryanVarma8008) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aryan Varma) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aryan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dantuluri.aryanvarma@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryanVarma-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AryanVarma-2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanVarma-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AryanVarma-2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+# `$ whoami` → **Aryan Varma**
+
+**B.Tech Information Technology · India 🇮🇳**
+
+*Building full-stack web applications and shipping them to the cloud.*
+
+</div>
+
+---
+
+## `// about_me`
+
+```yaml
+name:     Aryan Varma
+role:     Cloud-Native Full-Stack Developer (in progress)
+focus:
+  - Full-stack web development (UI → API → cloud)
+  - Cloud deployment and scalable infrastructure
+  - DevOps, containerization, and CI/CD pipelines
+  - Real-world application security and architecture
+goal:     Production-ready apps. Managed efficiently in the cloud.
+status:   Open to collaborations & interesting projects
+```
+
+---
+
+## `// tech_stack`
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Cloud**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=flat-square&logo=cisco&logoColor=black)
+
+**Data & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## `// github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AryanVarma-2005&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanVarma-2005&theme=github_dark&hide_border=true&layout=compact&count_private=false" height="160"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=AryanVarma-2005&theme=github-dark-blue&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## `// currently`
+
+```diff
++ Building cloud-native full-stack applications end-to-end
++ Deepening AWS and GCP deployment knowledge
++ Exploring containerization with Docker and CI/CD workflows
++ Learning how production systems are secured and scaled
+```
+
+---
+
+## `// connect`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-dantuluri.aryanvarma@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dantuluri.aryanvarma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Varma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan%20Varma)
+[![Instagram](https://img.shields.io/badge/Instagram-@aryanvarma__2005-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aryanvarma_2005)
+[![CodePen](https://img.shields.io/badge/CodePen-Aryan-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/Aryan)
+[![Reddit](https://img.shields.io/badge/Reddit-Aryan_Varma-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/Aryan%20Varma)
+[![Pinterest](https://img.shields.io/badge/Pinterest-AryanVarma8008-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/AryanVarma8008)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile views](https://visitcount.itsvg.in/api?id=AryanVarma-2005&icon=5&color=6)](https://visitcount.itsvg.in)
+
+*"Ship it. Learn from it. Build something better."*
+
+</div>
