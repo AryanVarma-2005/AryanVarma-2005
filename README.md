@@ -2,44 +2,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Aryan%20Varma&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cloud-Native%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=c9d1d9&animation=fadeIn" width="100%"/>
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+full-stack+apps+%26+shipping+to+cloud;☁️+AWS+·+GCP+·+Docker+·+Vercel;⚡+React+·+Node+·+Python+·+DevOps;🎯+Open+to+collabs+%26+interesting+projects)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-```bash
-aryan@github ~ $ whoami
-```
+## 👨‍💻 About Me
 
 </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
+<td width="55%" valign="top">
 
-```yaml
-● ● ●  aryan@github: ~
+**🎓 B.Tech Information Technology** — India 🇮🇳
 
-┌─────────────────────────────────────────────┐
-│  Now      B.Tech Information Technology       │
-│  Focus    Placement Prep · DSA · Aptitude      │
-│  Edu      B.Tech IT — India 🇮🇳               │
-│                                                 │
-│  ─ Stack ─────────────────────────────────    │
-│  Frontend   React, JavaScript, HTML/CSS        │
-│  Backend    Node.js, Python, MySQL             │
-│  Cloud      AWS · GCP · Docker · Vercel        │
-│  Data/DB    Supabase, Firebase, Neo4j          │
-│  AI/ML      NumPy, Pandas, scikit-learn        │
-│                                                 │
-│  ─ Highlights ────────────────────────────    │
-│  • Building a 50-chapter Quant Aptitude        │
-│    handbook for placement prep                │
-│  • Learning Vietnamese from scratch            │
-│  • Maintains self-built HTML reference         │
-│    guides on DSA, Git, complexity theory       │
-└─────────────────────────────────────────────┘
+I build full-stack web applications and deploy them on the cloud — from clean interactive UIs to backend APIs and scalable infrastructure.
+
+Passionate about how modern apps are **architected, secured, and shipped** in real-world environments.
+
+My goal → grow into a **cloud-native full-stack developer** who builds production-ready applications and manages them efficiently in the cloud.
+
+</td>
+<td width="5%"></td>
+<td width="40%" valign="top">
+
+**⚡ Quick Facts**
+
+```
+🔭  Building cloud-native apps
+🌱  Learning AWS · GCP · DevOps
+💬  Ask me about full-stack & cloud
+🤝  Open to collaborations
+📍  India
 ```
 
 </td>
@@ -48,17 +50,11 @@ aryan@github ~ $ whoami
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%24+building+full-stack+apps+%26+shipping+to+cloud;%24+AWS+%C2%B7+GCP+%C2%B7+Docker+%C2%B7+Vercel;%24+React+%C2%B7+Node+%C2%B7+Python+%C2%B7+DevOps;%24+open+to+collabs+%26+interesting+projects)](https://git.io/typing-svg)
-
-<br/>
-
 ---
 
 <div align="center">
 
-```bash
-aryan@github ~ $ cat tech-stack.sh
-```
+## 🛠️ Tech Stack
 
 </div>
 
@@ -114,15 +110,9 @@ aryan@github ~ $ cat tech-stack.sh
 
 <div align="center">
 
-```bash
-aryan@github ~ $ ./contributions.sh
-```
+## 📊 GitHub Stats
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanVarma-2005&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AryanVarma-2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&icon_color=58a6ff" height="180"/>
 &nbsp;&nbsp;
@@ -140,20 +130,16 @@ aryan@github ~ $ ./contributions.sh
 
 <div align="center">
 
-```bash
-aryan@github ~ $ cat currently.md
-```
+## 🚀 What I'm Working On
 
-</div>
-
-<div align="center">
+<br/>
 
 | 🔧 Area | 📌 Focus |
 |:---|:---|
-| **Placement Prep** | 50-chapter Quant Aptitude handbook, DSA, aptitude |
 | **Full-Stack Development** | End-to-end web apps — UI → API → cloud |
 | **Cloud & DevOps** | AWS, GCP, Docker, CI/CD pipelines |
-| **Language Learning** | Vietnamese, from scratch, module by module |
+| **Security & Architecture** | Building apps that scale and stay secure |
+| **Open Source** | Contributing & collaborating on real projects |
 
 </div>
 
@@ -163,9 +149,7 @@ aryan@github ~ $ cat currently.md
 
 <div align="center">
 
-```bash
-aryan@github ~ $ ./connect.sh
-```
+## 🤝 Connect With Me
 
 <br/>
 
@@ -182,9 +166,7 @@ aryan@github ~ $ ./connect.sh
 
 <br/>
 
-```bash
-aryan@github ~ $ echo "Ship it. Learn from it. Build something better."
-```
+> *"Ship it. Learn from it. Build something better."*
 
 <br/>
 
